@@ -1,6 +1,12 @@
 # React Komponenter
 ![""](hero.jpeg)
 
+<!--DEPLOY TIL GITHUB
+    > ÅBN TERMINAL
+    > SKRIV: npm run deploy
+    SÅ DEPLOYER OG BUILDER DU DET TIL gh-pages
+    -->
+
 ## Opgavebeskrivelse
 I de næste par dage skal du arbejde med at fremstille en kollektion af UI komponenter.
 

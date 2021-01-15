@@ -1,0 +1,33 @@
+#travelCard{
+    background-color: white;
+    width: 372px;
+    height: 471px;
+    border-radius: 2%;
+    margin: 20px;
+}
+
+img{
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+
+#topline{
+    color: #33439B;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 5px;
+    margin-left: 15px;
+}
+
+#headline{
+    color: #303336;
+    padding-left: 15px;
+    font-size: 28px;
+}
+
+#text{
+    color: #7B8591;
+    padding-left: 15px;
+    font-size: 16px;
+    width: 300px;
+}
